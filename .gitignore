@@ -249,4 +249,3 @@ tests/homolog/.auth/
 tests/homolog/ui/.auth/
 homolog-report/
 docker-compose.yml.bak
-config.bat
